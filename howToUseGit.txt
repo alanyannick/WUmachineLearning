@@ -1,0 +1,20 @@
+first step:
+ git clone git@github.com:viney/xxxx.git
+Second step:
+ cd XXX; mkdir abc;
+Third step:
+ mv xxx abc
+Fourth strp:
+ cd .. 
+ git add .
+ git add --updata .
+ git commit -am "xxxxxxxx"
+DONE
+
+in total
+git init
+git add . 
+git commit -am "the things that u wanna said"
+git push -u original master 
+
+
