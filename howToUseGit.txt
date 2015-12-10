@@ -1,4 +1,4 @@
-first step:
+##first step:
  git clone git@github.com:viney/xxxx.git
 Second step:
  cd XXX; mkdir abc;
